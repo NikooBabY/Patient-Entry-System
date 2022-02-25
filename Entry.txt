@@ -1,0 +1,3 @@
+Patient_ID,Name,Sex,Age,Address,Health_Issue,Contact,Referred_by
+1003,Sujan Ghale,Male,20,Gumba,Lung failure,9865023478,Dr.Matumbaman
+1004,Mahima Basnet,Female,19,Pokhara,Low pressure,9865234156,Dr.Sulav
