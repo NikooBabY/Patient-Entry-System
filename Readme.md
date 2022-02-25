@@ -7,4 +7,4 @@ Or simply do ``pip install -r requirements.txt``
 
 # Usage
 1. Git clone the repository
-2. Type ``py [].py`` into the terminal
+2. Type ``py "Patient entry system.py"`` into the terminal
